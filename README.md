@@ -14,6 +14,7 @@ Se le pide al usuario los valores y la operación a realizar:
 https://github.com/GastonGarciaBauer/Calculadora-Basica-C/blob/main/operacion%20division.png?raw=true
 
 Se muestra el resultado y se pregunta por la siguiente operación:
+https://github.com/GastonGarciaBauer/Calculadora-Basica-C/blob/main/resultado%20division.png?raw=true
 
 ## Uso
 
